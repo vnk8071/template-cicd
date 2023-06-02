@@ -1,5 +1,0 @@
-print("Hello github user!")
-print("This is a simple python script")
-print("Author: KhoiVN")
-print("Email: nguyenkhoi8071@gmail.com")
-print("Github: vnk8071")

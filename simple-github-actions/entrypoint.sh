@@ -4,4 +4,4 @@ echo "Hello $1"
 time=$(date)
 echo "time=$time" >> $GITHUB_OUTPUT
 
-python hello.py
+python github/workspace/hello.py

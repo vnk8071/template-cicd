@@ -75,3 +75,9 @@ docs/multiple-files/usage.md
 ```bash
 .github/workflows/github-page.yml
 ```
+
+## Setting GitHub Pages
+Choose Settings > Pages > Source > Github Actions > Save
+![setting_github_page](https://user-images.githubusercontent.com/78080480/275153295-37a37a64-e899-4fc7-83f7-1afc9901ed57.png)
+
+Custom domain if you want
